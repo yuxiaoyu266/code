@@ -20,7 +20,7 @@ class Net(nn.Module):
             nn.LeakyReLU(),
         )
 
-        self.fc_s = nn.Sequential(nn.Linear(256, 1))
+        self.fc_s = nn.Sequential(nn.Linear(256, 1)，nn.LeakyReLU())
 
     def forward(self, X):
         X1, X2 = X.chunk(2, 1)
