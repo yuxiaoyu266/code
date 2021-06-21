@@ -33,5 +33,5 @@ $ python demo.py
 
 ## Contact
 
-***Please contact `jupoma@stu.xidian.edu.cn` if any issues with the code.***
+***Please contact `yuxiaoyu_yu@163.com` if any issues with the code.***
 
